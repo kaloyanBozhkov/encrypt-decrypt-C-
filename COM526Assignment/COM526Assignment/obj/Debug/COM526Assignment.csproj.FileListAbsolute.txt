@@ -1,0 +1,86 @@
+c:\users\s17000855\source\repos\COM526Assignment\COM526Assignment\bin\Debug\COM526Assignment.exe.config
+c:\users\s17000855\source\repos\COM526Assignment\COM526Assignment\bin\Debug\COM526Assignment.exe
+c:\users\s17000855\source\repos\COM526Assignment\COM526Assignment\bin\Debug\COM526Assignment.pdb
+c:\users\s17000855\source\repos\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.csprojAssemblyReference.cache
+c:\users\s17000855\source\repos\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.Properties.Resources.resources
+c:\users\s17000855\source\repos\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.csproj.GenerateResource.cache
+c:\users\s17000855\source\repos\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.csproj.CoreCompileInputs.cache
+c:\users\s17000855\source\repos\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.exe
+c:\users\s17000855\source\repos\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.pdb
+c:\users\s17000855\source\repos\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.main.resources
+c:\users\s17000855\source\repos\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.task2.resources
+E:\Uni\COM526Assignment\COM526Assignment\bin\Debug\COM526Assignment.exe.config
+E:\Uni\COM526Assignment\COM526Assignment\bin\Debug\COM526Assignment.exe
+E:\Uni\COM526Assignment\COM526Assignment\bin\Debug\COM526Assignment.pdb
+E:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.csprojAssemblyReference.cache
+E:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.main.resources
+E:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.Properties.Resources.resources
+E:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.task2.resources
+E:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.csproj.GenerateResource.cache
+E:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.csproj.CoreCompileInputs.cache
+E:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.exe
+E:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.pdb
+F:\Uni\COM526Assignment\COM526Assignment\bin\Debug\COM526Assignment.exe.config
+F:\Uni\COM526Assignment\COM526Assignment\bin\Debug\COM526Assignment.exe
+F:\Uni\COM526Assignment\COM526Assignment\bin\Debug\COM526Assignment.pdb
+F:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.csprojAssemblyReference.cache
+F:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.main.resources
+F:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.Properties.Resources.resources
+F:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.task2.resources
+F:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.task3.resources
+F:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.csproj.GenerateResource.cache
+F:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.csproj.CoreCompileInputs.cache
+F:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.exe
+F:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.pdb
+E:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.task3.resources
+F:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.task3_login.resources
+F:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.task3_poems_edit.resources
+G:\Uni\COM526Assignment\COM526Assignment\bin\Debug\COM526Assignment.exe.config
+G:\Uni\COM526Assignment\COM526Assignment\bin\Debug\COM526Assignment.exe
+G:\Uni\COM526Assignment\COM526Assignment\bin\Debug\COM526Assignment.pdb
+G:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.csprojAssemblyReference.cache
+G:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.main.resources
+G:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.Properties.Resources.resources
+G:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.task2.resources
+G:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.task3.resources
+G:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.task3_login.resources
+G:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.task3_poems_edit.resources
+G:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.csproj.GenerateResource.cache
+G:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.csproj.CoreCompileInputs.cache
+G:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.exe
+G:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.pdb
+F:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.task1.resources
+E:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.task1.resources
+E:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.task3_login.resources
+E:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.task3_poems_edit.resources
+G:\Uni\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.task1.resources
+F:\Uni\COM526Assignment - Copy\COM526Assignment\bin\Debug\COM526Assignment.exe.config
+F:\Uni\COM526Assignment - Copy\COM526Assignment\bin\Debug\COM526Assignment.exe
+F:\Uni\COM526Assignment - Copy\COM526Assignment\bin\Debug\COM526Assignment.pdb
+F:\Uni\COM526Assignment - Copy\COM526Assignment\obj\Debug\COM526Assignment.csprojAssemblyReference.cache
+F:\Uni\COM526Assignment - Copy\COM526Assignment\obj\Debug\COM526Assignment.main.resources
+F:\Uni\COM526Assignment - Copy\COM526Assignment\obj\Debug\COM526Assignment.Properties.Resources.resources
+F:\Uni\COM526Assignment - Copy\COM526Assignment\obj\Debug\COM526Assignment.task1.resources
+F:\Uni\COM526Assignment - Copy\COM526Assignment\obj\Debug\COM526Assignment.task2.resources
+F:\Uni\COM526Assignment - Copy\COM526Assignment\obj\Debug\COM526Assignment.task3.resources
+F:\Uni\COM526Assignment - Copy\COM526Assignment\obj\Debug\COM526Assignment.task3_login.resources
+F:\Uni\COM526Assignment - Copy\COM526Assignment\obj\Debug\COM526Assignment.task3_poems_edit.resources
+F:\Uni\COM526Assignment - Copy\COM526Assignment\obj\Debug\COM526Assignment.csproj.GenerateResource.cache
+F:\Uni\COM526Assignment - Copy\COM526Assignment\obj\Debug\COM526Assignment.csproj.CoreCompileInputs.cache
+F:\Uni\COM526Assignment - Copy\COM526Assignment\obj\Debug\COM526Assignment.exe
+F:\Uni\COM526Assignment - Copy\COM526Assignment\obj\Debug\COM526Assignment.pdb
+C:\Projects\uni\encrypt\COM526Assignment\COM526Assignment\bin\Debug\COM526Assignment.exe.config
+C:\Projects\uni\encrypt\COM526Assignment\COM526Assignment\bin\Debug\COM526Assignment.exe
+C:\Projects\uni\encrypt\COM526Assignment\COM526Assignment\bin\Debug\COM526Assignment.pdb
+C:\Projects\uni\encrypt\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.csprojAssemblyReference.cache
+C:\Projects\uni\encrypt\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.main.resources
+C:\Projects\uni\encrypt\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.Properties.Resources.resources
+C:\Projects\uni\encrypt\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.task1.resources
+C:\Projects\uni\encrypt\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.task2.resources
+C:\Projects\uni\encrypt\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.task3.resources
+C:\Projects\uni\encrypt\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.task3_login.resources
+C:\Projects\uni\encrypt\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.task3_poems_edit.resources
+C:\Projects\uni\encrypt\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.csproj.GenerateResource.cache
+C:\Projects\uni\encrypt\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.csproj.CoreCompileInputs.cache
+C:\Projects\uni\encrypt\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.exe
+C:\Projects\uni\encrypt\COM526Assignment\COM526Assignment\obj\Debug\COM526Assignment.pdb
